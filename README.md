@@ -1,5 +1,5 @@
-# RiichiMahjongMaster
-This Riichi Mahjong analyzer tool helps players find the optimal tile to discard for different purposes and calculate the final score.
+# Mahjong Analyzer
+Mahjong Analyzer helps players find the optimal tile to discard for different purposes and calculate the final score.
 
 The features are:
 1. Discard tile for efficiency
