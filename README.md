@@ -10,7 +10,7 @@ The features are:
 
 More are coming in future version.
 
-To report bugs, please create an issue in https://github.com/bamboo3250/RiichiMahjongMaster/issues
+To report bugs, please create an issue in https://github.com/bamboo3250/Mahjong-Analyzer/issues
 
 Thanks Martin for awesome Mahjong tile icon set.
 http://www.martinpersson.org
